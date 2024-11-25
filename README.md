@@ -1,4 +1,5 @@
 # SHERZOD SADIEV
+
 sherzod.sadiev@gmail.com | [LinkedIn® Profile](https://www.linkedin.com/in/sherzod-sadiev/) | Charlotte. NC | +1 (571) 208-6311
 
 ## SUMMARY
@@ -13,31 +14,49 @@ OTHER: Visual Studio Code | HTML/CSS | Bootstrap | Git | Hangfire | Cucumber | C
 Languages: English, Russian, and Persian (Tajik)
 
 ## WORK EXPERIENCE
-
 ### GEONETRIC
 Jun 2023 – Present
+
 .NET Software Engineer
+
 Contributed to the development and maintenance of a CMS application. Key achievements include:
+
 ● Successfully migrated provider search functionality from SQL to Elasticsearch, reducing search time by 34% and enhancing overall search performance.
+
 ● Led the migration of third-party applications from legacy API versions to modern API implementations. Collaborated with cross-functional teams to ensure data consistency and resolve integration challenges.
+
 ● Implemented SAML Single Sign-On (SSO) for a legacy application. Analyzed existing architecture, integrated third-party identity providers, and ensured compatibility with legacy systems and improved user access efficiency for 700+ active users.
+
 TECHNOLOGIES: C#, .NET Framework 4.8, .NET 6, .NET 8, MSSQL, Azure DevOps, Docker, Elasticsearch
+
 ### RIVERSTONE LOGISTICS
 Jan 2023 – Jun 2023
+
 .NET Full Stack Engineer
+
 Contributed to the development of a logistics application as a member of a highly skilled 6-person team. Keyachievements include:
+
 ● Developed an automated badge printing feature that allows users to choose their preferred office and city, resulting in a 35% increase in onboarding of service providers and a 10% reduction in errors.
+
 ● Implemented user activity tracking throughout the application, providing valuable insights into operational inefficiencies and enhancing security measures for vulnerable areas.
-● Integrated a real-time tracking system that improved the accuracy of delivery estimates and
-reduced customer complaints by 27%.
+
+● Integrated a real-time tracking system that improved the accuracy of delivery estimates and reduced customer complaints by 27%.
+
 TECHNOLOGIES: C#, .NET 6, MSSQL, TypeScript, Angular, Azure DevOps, Docker
+
 ### ALIF BANK
 Mar 2018 – Aug 2021
-.NET Software Engineer
+
+.NET Software Engineer 
+
 Participated in the development of Core Banking Solution, a sophisticated accounting system for banking. Key successes consist of:
+
 ● Developed an auto-payment system for credit payments that ensured timely payments and increased credit payments by 27%. Clients' funds were stored in the Alif Mobi wallet, enabling the bank to withdraw the necessary funds for payment.
+
 ● Enhanced productivity by 46% and provided vital structure by automating accounting reports to help navigate a database containing tens of thousands of data with various accounts, deposits, and credits.
+
 ● Captured substantial gains in efficiency and productivity by automating cash storage; strategy enabled cashiers to monitor the amount of currency in any branch and within cash registers and download required reports/files.
+
 TECHNOLOGIES: C#, .NET Core 2.1, .NET Core 3.1, JavaScript, Vue, MSSQL, Hangfire.
 
 ## EDUCATION
