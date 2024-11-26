@@ -1,6 +1,6 @@
 # SHERZOD SADIEV
 
-sherzod.sadiev@gmail.com | [LinkedIn® Profile](https://www.linkedin.com/in/sherzod-sadiev/) | Charlotte. NC | +1 (571) 208-6311
+sherzod.sadiev@gmail.com | [LinkedIn® Profile](https://www.linkedin.com/in/sherzod-sadiev/) | Charlotte. NC | +1 (980) 699-8463
 
 ## SUMMARY
 
