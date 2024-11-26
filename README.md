@@ -10,7 +10,9 @@ I am known to be a collaborative team player, working in teams ranging from 3 to
 ## SKILLS
 
 .NET | C# | ASP.NET | Web API | RESTful Services | Layered (N-Tier) Architecture | Microservices Architecture | MVC | OOP | SQL | Entity Framework | Linq | Dapper | Elasticsearch | MSSQL | PostgreSQL | JavaScript | TypeScript | Vue | Angular | Docker | Azure DevOps | Unit Testing | E2E Testing | Integration Testing | Agile (Scrum) | GitHub Copilot | Rider | Visual Studio
+
 OTHER: Visual Studio Code | HTML/CSS | Bootstrap | Git | Hangfire | Cucumber | Cypress | NUnit | FluentAssertions | MOQ | NSubstitute
+
 Languages: English, Russian, and Persian (Tajik)
 
 ## WORK EXPERIENCE
